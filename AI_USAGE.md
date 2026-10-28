@@ -6,17 +6,12 @@ Mentor reads it, and the W8 defence can ask about it.
 
 ## Tools
 
-<!-- Which AI tools you used (or "none"), and for which parts of the task. -->
+deepseek
 
 ## What AI got wrong
 
-<!-- At least one thing an AI tool got wrong that you changed, and how you noticed:
-     a test, the docs, running it. -->
+dont know
 
 ## In my own words
 
-<!-- One or two sentences each, written without AI. -->
-
-1. Why does a data store have no Spoofing threats in STRIDE per element, and where does that threat go instead?
-
-2. Which of your eleven new threats would you fix first, and why that one?
+dont know
